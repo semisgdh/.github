@@ -1,14 +1,16 @@
-# 🌍 Who We Are?
-[![SGDH_Banner](../images/SGDH_Banner.jpg)](https://github.com/semisgdh)
+# [🌍 Who We Are?](https://semisgdh.com/)
+[![SGDH_Banner](../images/SGDH_Banner.jpg)](https://semisgdh.com/)
 
 # 🚀 SGDH's Awesome RISC-V Open Source Project 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# 📖 SGDH's Awesome Lecture Roadmap (Click Image)
+# [📖 SGDH's Awesome Lecture Roadmap](https://miro.com/app/board/uXjVP9MN5ws=/)
 [![Miro Board](../images/SGDH_Roadmap.jpg)](https://miro.com/app/board/uXjVP9MN5ws=/)
 
-# 📖 SGDH's Awesome Challenge. HDLBits (Click Image)
+# [💻 SGDH's Awesome Challenge. HDLBits](https://www.youtube.com/playlist?list=PLm4EZB3VG6zm829pwH7RfD8CXufNHxEbi)
+- [🔧Git SGDH_HDL_Bits](https://github.com/semisgdh/SGDH_HDL_Bits)
+- [🎬Youtube](https://www.youtube.com/playlist?list=PLm4EZB3VG6zm829pwH7RfD8CXufNHxEbi)
 [![HDLBits Challenge](../images/SGDH_LRM.jpg)](https://www.youtube.com/playlist?list=PLm4EZB3VG6zm829pwH7RfD8CXufNHxEbi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matbi86&layout=compact)](https://github.com/matbi86/github-readme-stats)
