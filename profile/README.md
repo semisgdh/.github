@@ -1,5 +1,6 @@
+[![SGDH_Banner](../images/SGDH_Banner.jpg)](https://github.com/semisgdh)
 ## Hi there 👋
-
+[![Miro Board](../images/SGDH_Roadmap.jpg)](https://miro.com/app/board/uXjVP9MN5ws=/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matbi86&layout=compact)](https://github.com/matbi86/github-readme-stats)
 
 
