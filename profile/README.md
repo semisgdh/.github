@@ -1,9 +1,14 @@
 # [🌍 Who We Are?](https://semisgdh.com/)
 [![SGDH_Banner](../images/SGDH_Banner.jpg)](https://semisgdh.com/)
+# 🌐 SGDH's Community (Only for Korean👨‍💻)
+설계독학과 함께하는 반도체 설계 Open 커뮤니티! (그림을 누르면 참여할 수 있습니다)
+[![SGDH_Community](../images/SGDH_Community.jpg)](https://discord.gg/QaKHFvtS25)
 
 # 🚀 SGDH's Awesome RISC-V Open Source Project (SGDH-RVSOC)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+설계독학의 교육용 RISC-V Processor on FPGA 프로젝트!! (그림을 누르면 Git repo 로 넘어갑니다.)
 <div align="center">
   <img src="../images/SGDH_RVSOC.jpg" alt="Image description" width="640" height="480">
 </div>
@@ -11,7 +16,7 @@
 [![SGDH_RVSOC](../images/SGDH_RVSOC.jpg)](https://semisgdh.com/)
 -->
 
-# 📖 SGDH's Awesome Lecture Roadmap (Only for Korean)
+# 📖 SGDH's Awesome Lecture Roadmap (Only for Korean👨‍💻)
 설계독학에서 진행중인 강의 list!
 | Lecture       | Description                        | Level    |
 |---------------|------------------------------------|-----------|
@@ -37,4 +42,9 @@
 -->
 [![HDLBits Challenge](../images/SGDH_LRM.jpg)](https://www.youtube.com/playlist?list=PLm4EZB3VG6zm829pwH7RfD8CXufNHxEbi)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matbi86&layout=compact)](https://github.com/matbi86/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matbi86&show_icons=true&theme=radical)
+# GitHub Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matbi86&theme=dark)
+-->
