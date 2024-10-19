@@ -11,10 +11,8 @@
 [![SGDH_RVSOC](../images/SGDH_RVSOC.jpg)](https://semisgdh.com/)
 -->
 
-
-
-
-# [📖 SGDH's Awesome Lecture Roadmap](https://miro.com/app/board/uXjVP9MN5ws=/)
+# 📖 SGDH's Awesome Lecture Roadmap (Only for Korean)
+설계독학에서 진행중인 강의 list!
 | Lecture       | Description                        | Level    |
 |---------------|------------------------------------|-----------|
 | 설계독학맛비's 실전 Verilog HDL Season 0 (Language Reference Manual 완전정복) - Comming Soon 25Y 1Q   | [Verilog LRM 2001](https://picture.iczhiku.com/resource/eetop/WyKEdIyHgLhiwNmV.pdf) 문서를 직접 분석하여 만든 실무 중심의 문법강의. 어중간하게 배우지 말고 이 강의 하나로 끝내요.     | L0 초급 강의 (대학교 1~2학년)  |
@@ -23,7 +21,7 @@
 | [설계독학맛비's 실전 AI HW 설계를 위한 바이블, CNN 연산 완전정복 (Verilog HDL + FPGA 를 이용한 가속기 실습)](https://inf.run/1mFx)     | AI HW 를 시작해야하는 사람들을 위한 기초 강의     | L3 중급 강의 (대학원, 현업 신입)  |
 | [설계독학맛비's 실전 Verilog HDL Season 2 (AMBA AXI4 완전정복)](https://inf.run/R7R4)     | 현업 설계자라면 꼭 알아야하는 AMBA 를 공부하면서 System 을 이해하고 DMA (Direct Memory Access) 를 설계하는 강의    | L4 고급 강의 (현업 4년차 이상의 수준)  |
 
-
+설계독학의 로드맵 (그림을 누르면 자세히 볼 수 있어요!)
 [![Miro Board](../images/SGDH_Roadmap.jpg)](https://miro.com/app/board/uXjVP9MN5ws=/)
 
 # 💻 SGDH's Awesome Challenge. HDLBits
@@ -37,19 +35,6 @@
   </a>
 </div>
 -->
-
 [![HDLBits Challenge](../images/SGDH_LRM.jpg)](https://www.youtube.com/playlist?list=PLm4EZB3VG6zm829pwH7RfD8CXufNHxEbi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matbi86&layout=compact)](https://github.com/matbi86/github-readme-stats)
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
