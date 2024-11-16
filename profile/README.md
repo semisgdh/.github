@@ -9,12 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 설계독학의 교육용 RISC-V Processor on FPGA 프로젝트!! (그림을 누르면 Git repo 로 넘어갑니다.)
-<div align="center">
-  <img src="../images/SGDH_RVSOC.jpg" alt="Image description" width="640" height="480">
-</div>
-<!--
-[![SGDH_RVSOC](../images/SGDH_RVSOC.jpg)](https://semisgdh.com/)
--->
+[![SGDH_RVSOC](../images/SGDH_RVSOC.jpg)](https://github.com/semisgdh/SGDH-RVSoC)
 
 # 📖 SGDH's Awesome Lecture Roadmap (Only for Korean👨‍💻)
 설계독학에서 진행중인 강의 list!
